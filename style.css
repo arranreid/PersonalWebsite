@@ -68,3 +68,13 @@
 #littleContainer3:hover {
     background-color: darkgray;
 }
+
+#empHeader{
+    background-color:antiquewhite;
+}
+
+.header{
+    display:block;
+    width:100%;
+    height:20vh;
+}
