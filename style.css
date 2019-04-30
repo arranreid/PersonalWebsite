@@ -16,7 +16,7 @@
 }
 
 #name {
-    margin-top:30vh;
+    margin-top:20vh;
     display: inline-block;
     font-size:70px;
     color:white;
@@ -53,7 +53,7 @@
     margin-top: 10.5vh;
     display: inline-block;
     font-size: 50px;
-    color: white;
+    color: lightslategray;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -86,8 +86,8 @@
 }
 
 #projectHeader {
-    background-color: antiquewhite;
-    color: lightsalmon;
+    background-color: lightsalmon;
+    color: lightslategray;
     padding-top: 4vh;
     height: 10vh;
     padding-left: 5vh;
@@ -102,4 +102,12 @@
 
 #employ{
     background-color:lightslategray;
+}
+
+#summary {
+    margin-top: 12vh;
+    color: white;
+    font-size: 25px;
+    width: 65%;
+    display: inline-block;
 }
