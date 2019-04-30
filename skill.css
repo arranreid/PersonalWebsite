@@ -1,0 +1,18 @@
+#skillBody {
+    background-color: lightslategray;
+}
+
+.wrapper {
+    display: block;
+    width: 100%;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#skillHeader {
+    background-color: lightblue;
+    color: lightslategray;
+    padding-top: 4vh;
+    height: 10vh;
+    padding-left: 5vh;
+}
