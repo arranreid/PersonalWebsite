@@ -1,0 +1,42 @@
+#proj {
+    background-color: lightslategray;
+}
+
+.wrapper {
+    display: block;
+    width: 100%;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#projectHeader {
+    background-color: lightsalmon;
+    color: lightslategray;
+    padding-top: 4vh;
+    height: 10vh;
+    padding-left: 5vh;
+}
+
+#title {
+    color: white;
+    font-size: 23px;
+}
+
+.description {
+    color: white;
+    font-size: 16px;
+}
+
+li {
+    margin-top: 3%;
+}
+
+#picture {
+    display:block;
+    height:20vh;
+    width:25vh;
+    float:right;
+    margin-right:10%;
+    margin-left:3%;
+    margin-top:5%;
+}
