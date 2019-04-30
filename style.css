@@ -111,3 +111,27 @@
     width: 65%;
     display: inline-block;
 }
+
+#jobTitle{
+    color:white;
+    font-size:23px;
+}
+
+.description {
+    color: white;
+    font-size: 16px;
+}
+
+li {
+    margin: 5% 0;
+}
+
+#empPhoto{
+    display:block;
+    float:right;
+    height:35vh;
+    margin-right:7%;
+    width:40%;
+    background-color:white;
+    margin-top:5.5%;
+}
